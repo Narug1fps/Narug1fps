@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou o Vitor (@Narug1fps)
 - 👀 eu estou interessado em fazer sites
-- 🌱 Atual mente estão aprendendo todas as linguagens possiveis
+- 🌱 Atualmente estou aprendendo todas as linguagens possiveis
 - 💞️ Eu amo ser desenvolvedor em front-end
 - 📫 Fale comigo pelo email narug1fps@gmail.com
 <!---
